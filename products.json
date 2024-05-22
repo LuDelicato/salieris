@@ -1,0 +1,19 @@
+{
+  "menu": [
+    { "name": "Pizza quattro stagioni", "price": 250 },
+    { "name": "Pizza diavola", "price": 250 },
+    { "name": "Pizza Siciliana", "price": 250 },
+    { "name": "Calzone", "price": 250 },
+    { "name": "Frango à Parmegiana", "price": 250 },
+    { "name": "Limonata", "price": 115 },
+    { "name": "Cerveja Birra", "price": 115 },
+    { "name": "Brunello di Montalcino", "price": 115 },
+    { "name": "Whiskey", "price": 500 },
+    { "name": "Limoncello", "price": 500 },
+    { "name": "Expresso", "price": 50 },
+    { "name": "Taça de Tremoços", "price": 50 },
+    { "name": "Tiramisù", "price": 50 },
+    { "name": "Pizza Pet (plushie)", "price": 250 },
+    { "name": "Donuts", "price": 50 }
+  ]
+}
